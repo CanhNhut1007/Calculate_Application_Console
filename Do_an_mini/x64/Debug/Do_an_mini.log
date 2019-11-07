@@ -1,0 +1,4 @@
+﻿  Bailam.cpp
+d:\destop\ktlt\chương c\do_an_mini1\source_code\do_an_mini\bailam.cpp(111): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Do_an_mini.vcxproj -> D:\DesTop\KTLT\Chương C\Do_an_mini1\Source_code\x64\Debug\Do_an_mini.exe
+  Do_an_mini.vcxproj -> D:\DesTop\KTLT\Chương C\Do_an_mini1\Source_code\x64\Debug\Do_an_mini.pdb (Full PDB)

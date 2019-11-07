@@ -7,6 +7,7 @@ Các chức năng cơ bản của chương trình :
 1.	Hỗ trợ 4 phép toán : cộng trừ nhân chia.
 2.	Hỗ trợ dấu đóng ngoặc mở ngoặc ( ).
 3.	Biểu thức nhập vào hợp lệ.
+
 Các chức năng nâng cao : 
 1.	Hỗ trợ phép toán luỹ thừa(^).
 2.	Hỗ trợ hằng số π (Giả sử là chữ "p" trong chương trình).
